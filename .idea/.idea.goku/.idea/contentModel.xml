@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\EDUARDO COLLANTES\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\EDUARDO COLLANTES\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_goku.-1329269025.00" t="ExcludeRecursive" />
+    <e p="D:\Upn 2020-1\Videojuegos y Aplicaciones Moviles\AreaDeTrabajoUnity\Arcade Bikes Project\goku" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="goku" t="Include">
+            <e p="CamaraSeguimiento.cs" t="Include" />
+            <e p="goku.cs" t="Include" />
+          </e>
+          <e p="goku2" t="Include">
+            <e p="Goku2.cs" t="Include" />
+          </e>
+          <e p="Megaman" t="Include">
+            <e p="Bala.cs" t="Include" />
+            <e p="MegamanPlayer.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="goku.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
